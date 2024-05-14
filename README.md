@@ -4,7 +4,6 @@
 
 - 🌱 I’m currently learning **Programming Languages: JAVASCRIPT, TypeScript, Framework: Angular**
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
