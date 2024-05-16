@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi there 👋, I'm fethi, i live in France</h1>
+<h1 align="center">Hi there 👋, I'm fethi.</h1>
 <h3 align="center">I'M FRONT-END DEVELOPER</h3>
 
 - 🌱 I’m currently learning **Programming Languages: JAVASCRIPT, TypeScript, Framework: Angular**
